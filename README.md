@@ -5,6 +5,10 @@ AI benchmark for evaluating reasoning, uncertainty, and decision-making.
 ## 🚀 Live Demo
 [Click here to view the app](https://medreasonbench-9ggpyiaa9wwetuqcjckne2.streamlit.app/)
 
+## 📸 Demo
+
+![App Screenshot](assets/demo.png)
+
 ## 🐙 GitHub Repo
 👉 https://github.com/medlabtech2013/medreasonbench
 
